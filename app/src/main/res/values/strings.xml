@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="hip_hop">Hip-Hop</string>
+    <string name="rock">Rock</string>
+    <string name="dance">Dance</string>
+    <string name="genres">Genres</string>
+    <string name="formatted_string">%1$s ": "%2$s</string>
+    <string name="play">PLAY</string>
+
+</resources>
